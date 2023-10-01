@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<resources>-->
+<!--    <color name="colorPrimary">#90a4ae</color>-->
+<!--    <color name="colorPrimaryDark">#62757f</color>-->
+<!--    <color name="colorAccent">#c1d5e0</color>-->
+<!--</resources>-->
+<resources>
+    <color name="colorPrimary">#90a4ae</color>
+    <color name="colorPrimaryDark">#62757f</color>
+    <color name="colorAccent">#c1d5e0</color>
+    <color name="blue">#AEE2FF</color> <!-- Define the light blue color -->
+    <color name="purple">#D0BFFF</color> <!-- Define the purple color -->
+    <color name="green">#CFFDE1</color>
+    <color name="eblue">#CAEDFF</color>
+    <color name="buttonBackground">#FFFFF</color>
+    <color name="orange">#FEDEFF</color> <!-- Define the orange color -->
+
+</resources>
