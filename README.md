@@ -13,6 +13,6 @@ Projects from my Bharat Internship
 </div>
 
 <div style="display: flex;">
-<img src="https://github.com/Kgotta-contribute/BharatInternship/blob/main/Calculator/FINAL_gif.png" alt="Image Description" width="350px" height="750px">
+<img src="https://github.com/Kgotta-contribute/BharatInternship/blob/main/FINAL_GIF_1.gif" alt="Image Description" width="350px" height="750px">
   <img src="https://github.com/Kgotta-contribute/BharatInternship/blob/main/Github_pic.png" alt="Image Description" width="350px" height="750px">
 </div>
